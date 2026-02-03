@@ -169,7 +169,7 @@ GAME OVER / QUIT
 ---
   
 ![Gameplay](screen1.png)
-![Gameplay](screnn2.png)
+![Gameplay](screen2.png)
 
 ---
 
