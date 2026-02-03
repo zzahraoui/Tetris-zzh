@@ -166,6 +166,10 @@ GAME OVER / QUIT
 - **ESPACE** : Rotation horaire
 - **P** : Pause
 - **ESC** : Quitter
+---
+  
+![Gameplay](screen1.png)
+![Gameplay](screnn2.png)
 
 ---
 
